@@ -790,6 +790,7 @@ counter-increment:figcaption;
 }
 figure.listing {
 counter-increment:listing;
+left: 51px;
 }
 figure.equation {
 counter-increment:equation;
